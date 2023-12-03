@@ -1,11 +1,3 @@
-#!\usr\bin\env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 25 09:24:53 2020
-
-@author: AbbieEnders
-"""
-
 #create a jpg of each spectrum
 
 import pandas as pd
@@ -14,6 +6,7 @@ import os
 import glob
 import re
 import sys
+
 #path to spectra csv files
 path = os.path.join(os.getcwd(), sys.argv[1])
 
