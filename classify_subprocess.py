@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 17 09:09:48 2020
-
-@author: AbbieEnders
-"""
 import os
 import shutil
 
