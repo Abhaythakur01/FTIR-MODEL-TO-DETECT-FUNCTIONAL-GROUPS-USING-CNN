@@ -1,17 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov  8 09:46:55 2020
 
-@author: AbbieEnders
-"""
-#IMPORTS 
 import subprocess
 import os
 
-# here we will call on each of our processes
-# Step X: Run X 
-# subprocess.run(['python', 'filename.py'], shell=True)
-#VARIABLES
+
 path = 'jcamp_files'
 bad_path_1 = 'cond_not_met'
 bad_path_2 = 'in_trans'
