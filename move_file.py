@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 14 11:02:54 2020
-
-@author: AbbieEnders
-"""
-
 import os, shutil
 import sys
 import glob
