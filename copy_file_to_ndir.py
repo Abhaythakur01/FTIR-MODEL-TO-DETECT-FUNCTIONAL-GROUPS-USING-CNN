@@ -17,8 +17,7 @@ with open(path_to_list, newline='') as f:
     filenames = list(reader)
 os.chdir(path)
 extension = 'jpg' 
-#results = glob.glob(path + extension)
-#print(results)
+
 os.chdir(path)
 results = glob.glob('*.{}'.format(extension))
 print(results)
