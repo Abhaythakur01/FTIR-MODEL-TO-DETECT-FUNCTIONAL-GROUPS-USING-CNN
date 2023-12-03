@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 18 15:48:46 2020
-
-@author: AbbieEnders
-"""
-
-c = 'present'
-b = 'not present'
-# do you want the user to state a title for the graph? If not remove line 11
-# title = 'Confusion Matrix for Carboxylica Identification'
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
