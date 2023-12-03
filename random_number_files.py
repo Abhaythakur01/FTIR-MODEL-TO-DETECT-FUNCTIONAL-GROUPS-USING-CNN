@@ -1,15 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov  8 14:14:59 2020
-
-@author: AbbieEnders
-"""
-'''
-###############################################################################
-########################TO RUN IN THE CONSOLE #################################
-###############################################################################
-python random_number_files.py [path_to_directory_1] [path_to_directory_2] 
-'''
 # imports
 import os
 import sys
