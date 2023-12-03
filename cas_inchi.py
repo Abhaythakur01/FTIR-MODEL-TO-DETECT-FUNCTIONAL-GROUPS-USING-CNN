@@ -1,13 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  7 17:28:01 2020
 
-@author: AbbieEnders
 
-#########################################################
-################ TO RUN #################################
-python cas_inchi.py --data_dir=data --cas_list=species.txt
-"""
 import os
 import logging
 import argparse
